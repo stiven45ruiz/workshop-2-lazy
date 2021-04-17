@@ -1,3 +1,16 @@
 @import 'tailwindcss/dist/base.css';
 @import 'tailwindcss/dist/components.css';
 @import 'tailwindcss/dist/utilities.css';
+
+img {
+    min-width: 200px;
+    border-radius: 10px;
+}
+div .imagesContent{
+    display: inline;
+}
+button{
+    margin: 10px;
+    background-color: rgb(89, 34, 255);
+    border-radius: 10px;
+}
